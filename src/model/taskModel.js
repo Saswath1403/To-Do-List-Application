@@ -12,7 +12,7 @@ const taskSchema = new mongoose.Schema(
       type: String,
       default: null,
     },
-    tasks: {
+    toDoList: {
       type: Array,
       default: [],
     },
