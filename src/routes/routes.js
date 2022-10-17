@@ -11,7 +11,7 @@ const {
 } = require("../controllers/taskController"); // Destructuring & Importing
 
 // Post Api Route
-route.post("create/", createToDoList);
+route.post("/create", createToDoList);
 
 // Get Api Routes
 route.get("/list/:taskId", getToDoListById);
