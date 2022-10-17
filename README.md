@@ -1,4 +1,4 @@
-# To-Do List Assignment
+# To-Do List Project
 
 ## Overview
 To do lists offer a way to increase productivity, stopping us from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.
